@@ -1,3 +1,2 @@
 # Distributed-SP-Project
-fire detection
-temperature averaging 
+fire detection and temperature averaging 
